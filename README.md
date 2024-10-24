@@ -28,4 +28,4 @@ Este proyecto es una aplicación Android que implementa medidas de seguridad par
 4. Asegurarse de que los permisos necesarios están configurados.
 
 ## Reporte de Vulnerabilidades 
-El reporte detallado se encuentra en el archivo `vulnerability_report.pdf`.
+El reporte detallado se encuentra en el archivo `descarga.pdf`.
