@@ -1,7 +1,7 @@
 # TestMaps
 
 ## Descripción
-Este proyecto es una aplicación Android que implementa medidas de seguridad para proteger contra vulnerabilidades comunes.
+Aplicacion para usar el mapa
 
 ## Vulnerabilidades Identificadas
 - Aplicación firmada con un certificado de depuración.
