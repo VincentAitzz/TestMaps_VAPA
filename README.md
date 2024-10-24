@@ -28,4 +28,5 @@ Aplicacion para usar el mapa
 4. Asegurarse de que los permisos necesarios están configurados.
 
 ## Reporte de Vulnerabilidades 
-El reporte detallado se encuentra en el archivo `descarga.pdf`.
+El reporte detallado se encuentra en el archivo `vulnerability_report.pdf
+`.
